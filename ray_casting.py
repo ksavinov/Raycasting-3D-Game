@@ -78,7 +78,6 @@ def ray_casting(player_pos, player_angle, world_map):
         # # pink :)
         # color = (c, c // 4, c)
         # # on each ray display the projection height of the wall as a rectangle
-        # # отобразить проекционную высоту стены в виде прямоугольника на каждом луче
         # pygame.draw.rect(sc, color, (ray * SCALE, HALF_HEIGHT - proj_height // 2, SCALE, proj_height))
 
         cur_angle += DELTA_ANGLE  # change angle for another ray
