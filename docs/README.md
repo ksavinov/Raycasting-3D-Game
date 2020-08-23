@@ -8,7 +8,7 @@ I. The most straightforward way to run the app is follow the next steps:
 
 II. **For Windows users** 
 
-0). Download ```installer.exe```  and ```Pythonic Doom.exe``` https://cloud.mail.ru/public/iqCS/2zsX6Z1ZR,
+0). Download ```installer.exe```  and ```Pythonic Doom.exe``` from https://cloud.mail.ru/public/iqCS/2zsX6Z1ZR,
 put them in the root of the project.
 
 1). Execute ```installer.exe``` and follow the installation process.
